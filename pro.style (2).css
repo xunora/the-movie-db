@@ -1,0 +1,250 @@
+* {
+  box-sizing: border-box;
+  font-family: system-ui;
+}
+
+body {
+  margin: 0;
+}
+.container {
+  max-width: 1345px;
+  margin: 0 auto;
+}
+
+.containerr {
+  max-width: 1024px;
+  margin: 0 auto;
+  margin-left: 21%;
+}
+
+.for-just-color {
+  background-color: #032541;
+}
+
+.first-img {
+  width: 100px;
+}
+
+.home-header a {
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  font-family: system-ui;
+  font-weight: 400;
+}
+.home-header {
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.little-button {
+  background-color: #032541;
+  border-color: white;
+  color: white;
+  border-radius: 3px;
+  padding: 6px;
+}
+
+.just-for-color {
+  background-color: #032541de;
+  padding: 11px;
+  height: 95px;
+}
+
+.home-page-color {
+  color: white;
+  display: flex;
+  gap: 25px;
+  font-family: system-ui;
+  align-items: baseline;
+}
+
+.orangee {
+  background-color: #d29001;
+  padding: 5px 22px;
+  height: 55px;
+  font-size: 20px;
+  color: white;
+  border: none;
+  border-radius: 50%;
+}
+
+.huge-box {
+  border: 1px solid;
+  display: inline-block;
+  border-color: grey;
+  border-radius: 5px;
+  float: left;
+}
+
+.what-is {
+  font-size: 24px;
+  background-color: #d29001;
+  display: inline-block;
+  padding: 13px;
+  width: 248px;
+  color: white;
+  border-radius: 5px 5px 0px 0px;
+}
+
+.orange-text {
+  color: #d29001;
+  margin-left: 20px;
+  font-weight: 600;
+  margin-top: -1px;
+}
+
+.simple-text {
+  margin-left: 20px;
+  font-weight: 600;
+}
+
+.bomb {
+  font-weight: 700;
+}
+
+.second-thing {
+  margin-left: 21%;
+}
+
+.buttons {
+  background-color: #e4e7eb;
+  border: none;
+  padding: 10px 25px 10px 25px;
+  /* color: black; */
+  font-weight: 700;
+  border-radius: 5px;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+
+.inputcha {
+  margin-left: 21%;
+}
+
+.little-input {
+  width: 95%;
+  color: #8080802e;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.just-text {
+  color: #d29001;
+}
+
+.dark-blue {
+  padding: 26px;
+  display: inline-block;
+  border-radius: 50%;
+  margin-left: 35px;
+  margin-right: 15px;
+}
+
+.choose-select {
+  background-color: #e4e7eb;
+  width: 120px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  /* float: left; */
+}
+
+.ghoste {
+  margin-left: 155px;
+  margin-top: -107px;
+}
+
+.main-input {
+  padding: 10px;
+  width: 100%;
+  border-radius: 5px;
+  color: #80808078;
+}
+
+
+.charger {
+  height: 75px;
+  border-radius: 5px;
+}
+
+
+.uk{
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+
+
+.wishes {
+  padding: 10px;
+  width: 305px;
+  border-radius: 5px;
+}
+
+
+.for-inputs-display{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+
+.savee{
+  background-color: #d29001;
+  border: none;
+  padding: 10px 20px 10px 20px;
+  font-size: 15px;
+  color: white;
+  border-radius: 20px;
+  margin-top: 50px;
+
+}
+
+
+
+
+
+
+
+.the-basic {
+  font-size: 20px;
+  font-family: system-ui;
+  color: white;
+  line-height: 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+li a {
+  color: white;
+  text-decoration: none;
+  font-family: system-ui;
+  padding: 0;
+}
+.second-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #021e34;
+  gap: 30px;
+  padding: 70px 70px 93px 100px;
+  margin-top: 25px;
+}
+.coder-coder {
+  color: rgb(57, 213, 254);
+  padding: 11px;
+  background-color: white;
+  border-color: white;
+  display: flex;
+  justify-content: flex-end;
+  border-radius: 5px;
+}
+.little-button {
+  /* margin-bottom: 270px; */
+  margin-top: 30px;
+}
